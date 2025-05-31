@@ -7933,3 +7933,7 @@ img {
 .error-404-section .error-message p {
   margin-bottom: 1.8em;
 }/*# sourceMappingURL=style.css.map */
+
+.gaza-sec{
+  background-image: url(../images/gaza/bg.png);
+}
